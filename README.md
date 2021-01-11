@@ -1,6 +1,6 @@
 # Array Partition Function Comparison 
 
-Comparing Lomuto, Hoare, and "Andrei" (# https://youtu.be/fd1_Miy1Clg?t=1696) array partitions.
+Comparing Lomuto, Hoare, and ["Alexandrescu"](https://youtu.be/fd1_Miy1Clg?t=1696) array partitions.
 
 You need ImageMagick to save the animations to GIFs. This tutorial worked for me on Ubuntu 20.04: https://www.tutorialspoint.com/how-to-install-imagemagick-on-ubuntu.
 
